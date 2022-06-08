@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dineshi @CeylonAnalytics
+- 👋 Hi, I’m Dineshi @Dineshi
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Problems
